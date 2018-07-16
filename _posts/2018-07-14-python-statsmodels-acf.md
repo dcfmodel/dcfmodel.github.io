@@ -8,8 +8,8 @@ author: dcf
 mathjax: true
 ---
 The sample autocorrelation function (acf) is simply ploted in R using the 
-function acf(). To do the same task in Python, one convenient method is to
-use plot_acf in the package statsmodels.
+function acf(). To do the same task in Python, one convenient way is to
+use plot_acf() in the package statsmodels.
 
 {% highlight Python %}
 import numpy as np
