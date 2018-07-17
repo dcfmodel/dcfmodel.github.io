@@ -3,7 +3,7 @@ layout: post
 title: "Plot acf using statsmodels"
 date: 2018-07-14 23:39:50
 category: statistics
-tags: statistics, statsmodels Python
+tags: statistics statsmodels Python
 author: dcf
 mathjax: true
 ---
