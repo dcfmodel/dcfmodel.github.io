@@ -2,8 +2,8 @@
 layout: post
 title: "Plot acf using statsmodels"
 date: 2018-07-14 23:39:50
-category: statistics time-series
-tags: statistics time-series statsmodels Python
+category: Statistics
+tags: Statistics Time-series Python Statsmodels
 author: dcf
 mathjax: true
 ---
