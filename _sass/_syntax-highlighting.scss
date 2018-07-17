@@ -8,9 +8,8 @@ code{
     border-radius: 3px;
     color: #000;
     background-color: rgba(0, 0, 0, 0.06);
-    //background-color: rgba(243, 242, 248, 0);
-    //border: 1px solid #d7d0d2;
-    border: 1px solid #f3f2f8;
+    background-color: rgba(243, 242, 248, 0);
+    border: 1px solid #d7d0d2;
     font-family: Monaco,Menlo,"Microsoft YaHei Mono",Consolas,"Courier New",monospace,sans-serif;
 }
 
@@ -36,7 +35,8 @@ pre {
 
     //background: #272822;
     background: #f3f2f8;
-    .hll { background-color: #272822; }
+    //.hll { background-color: #272822; }
+    .hll { background-color: #f3f2f8; }
     .c { color: #75715e } /* Comment */
     .err { color: #960050; background-color: #1e0010 } /* Error */
     .k { color: #66d9ef } /* Keyword */
